@@ -29,7 +29,8 @@ function App() {
       <p className="read-the-docs">
         Dev
       </p>
-      <h1>Master</h1>
+     
+      <h1>Developer</h1>
     </>
   )
 }
